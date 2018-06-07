@@ -6,10 +6,10 @@ class Dog
   end 
   
   def name
-    @name 
+    name 
   end 
   
-  puts "woof, my name is #{@name}"
+  puts "woof, my name is #{name}"
 end 
 
 fido = Dog.new("Fido")
