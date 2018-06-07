@@ -12,5 +12,4 @@ class Dog
   puts "woof, my name is #{name}"
 end 
 
-Dog.new("fido")
-
+fido = Dog.new("Fido")
