@@ -11,4 +11,5 @@ class Dog
   puts "woof, my name is #{this_dogs_name}"
 end
 
-fido = Dog.new("Fido")
+fido = Dog.new
+fido.name= "fido"
