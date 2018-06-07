@@ -2,11 +2,11 @@
 class Dog
   
   def initialize(name)
-    name = name 
+    this_dogs_name = name 
   end 
   
   def name
-    name 
+   this_dogs_name 
   end 
   
   puts "woof, my name is #{name}"
