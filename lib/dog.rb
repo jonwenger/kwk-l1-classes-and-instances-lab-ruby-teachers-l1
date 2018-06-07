@@ -8,6 +8,7 @@ class Dog
     this_dogs_name
   end
   
+  puts "woof, my name is #{this_dogs_name}"
 end
 
 fido = Dog.new("Fido")
