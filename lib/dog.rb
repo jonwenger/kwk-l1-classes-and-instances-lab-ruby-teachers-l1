@@ -1,6 +1,5 @@
 # dog.rb
 class Dog
-  attr_accessible :name
   
   def initialize(name)
     @name = name 
